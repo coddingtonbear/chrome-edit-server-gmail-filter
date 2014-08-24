@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+0inst
+dist/*
+*egg-info*
+bin/*
+include/*
+lib/*
+src/*
+man/*
+share/*
+*.egg
+.Python
+.tox
