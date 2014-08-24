@@ -5,6 +5,7 @@ dist/*
 *egg-info*
 bin/*
 include/*
+build/*
 lib/*
 src/*
 man/*

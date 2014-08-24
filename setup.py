@@ -37,7 +37,7 @@ setup(
     include_package_data=True,
     packages=find_packages(),
     entry_points={
-        'chrome_edit_server_plugins': [
+        'chrome_edit_server.plugins': [
             'gmail = chrome_edit_server_gmail_filter.filter:GmailFilter',
         ]
     },
